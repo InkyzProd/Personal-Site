@@ -1,0 +1,62 @@
+[
+  {
+    "id": "idle-waroenk",
+    "title": "Idle Waroenk",
+    "description": "Distributed in-memory cache with Raft consensus, LRU-K cache eviction, and consistent hashing for deterministic partition routing.",
+    "tech": ["Go", "Node.js", "MySQL", "Valkey"],
+    "thumbnail": "/idle_waroenk.webp",
+    "live_url": "https://github.com/InkyzProd",
+    "repo_url": "https://github.com/InkyzProd",
+    "featured": true
+  },
+  {
+    "id": "cloudpulse",
+    "title": "CloudPulse",
+    "description": "Ultra-lightweight telemetry agent streaming OpenTelemetry traces and kernel-level metrics with eBPF hooks under sub-millisecond overhead.",
+    "tech": ["Go", "OpenTelemetry", "eBPF", "Prometheus"],
+    "thumbnail": "/images/projects/cloudpulse.webp",
+    "live_url": "https://github.com/<PLACEHOLDER_USERNAME>/cloudpulse",
+    "repo_url": "https://github.com/<PLACEHOLDER_USERNAME>/cloudpulse",
+    "featured": true
+  },
+  {
+    "id": "gatekeeper-proxy",
+    "title": "Gatekeeper Proxy",
+    "description": "High-throughput edge reverse proxy and distributed token-bucket rate limiter engineered for HTTP/2 multiplexing and automated TLS termination.",
+    "tech": ["Go", "Redis", "HTTP/2", "TLS"],
+    "thumbnail": "/images/projects/gatekeeper-proxy.webp",
+    "live_url": "https://github.com/<PLACEHOLDER_USERNAME>/gatekeeper-proxy",
+    "repo_url": "https://github.com/<PLACEHOLDER_USERNAME>/gatekeeper-proxy",
+    "featured": true
+  },
+  {
+    "id": "crawl-discord-indexer",
+    "title": "Crawl Discord Indexer",
+    "description": "Real-time Discord event listener and channel message archiver with full-text search indexer and bi-directional WebSocket relays.",
+    "tech": ["Go", "Discord API", "PostgreSQL", "WebSockets"],
+    "thumbnail": "/images/projects/crawl-discord-indexer.webp",
+    "live_url": "https://github.com/<PLACEHOLDER_USERNAME>/crawl-discord-indexer",
+    "repo_url": "https://github.com/<PLACEHOLDER_USERNAME>/crawl-discord-indexer",
+    "featured": false
+  },
+  {
+    "id": "termcanvas",
+    "title": "TermCanvas",
+    "description": "Terminal graphics engine and declarative TUI component framework with double-buffering, ANSI color quantization, and keyboard event routing.",
+    "tech": ["Go", "TUI", "ANSI"],
+    "thumbnail": "/images/projects/termcanvas.webp",
+    "live_url": "https://github.com/<PLACEHOLDER_USERNAME>/termcanvas",
+    "repo_url": "https://github.com/<PLACEHOLDER_USERNAME>/termcanvas",
+    "featured": false
+  },
+  {
+    "id": "inkyz-portfolio",
+    "title": "My Portfolio",
+    "description": "Ultra-fast personal developer portfolio and interactive showcase featuring orbital interactions, obsidian aesthetics, and zero-jank CSS motion.",
+    "tech": ["Go", "Templ", "Tailwind", "Vercel"],
+    "thumbnail": "/images/projects/inkyz-portfolio.webp",
+    "live_url": "https://inkyz.id",
+    "repo_url": "https://github.com/<PLACEHOLDER_USERNAME>/inkyz.id",
+    "featured": false
+  }
+]
