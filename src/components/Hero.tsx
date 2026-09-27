@@ -347,8 +347,8 @@ export default function Hero() {
               <div className="absolute inset-[2px] rounded-[30%] overflow-hidden bg-[#14161b] flex items-center justify-center">
                 {!imgError ? (
                   <img
-                    src="/favicon.svg"
-                    alt="Inkyz - Software and Systems Engineer"
+                    src="/web-app-manifest-512x512.png"
+                    alt="Inkyz — brand mark"
                     onError={() => setImgError(true)}
                     className="w-full h-full object-cover grayscale contrast-105 hover:grayscale-0 transition-all duration-500 select-none pointer-events-none rounded-[30%]"
                     loading="eager"

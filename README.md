@@ -27,7 +27,7 @@ A minimalist dark, obsidian-themed single-page developer portfolio and systems e
    ```bash
    npm run dev
    ```
-   Open `http://localhost:3000` in your browser.
+   Open `http://localhost:8690` in your browser (the port is fixed by the `--port=8690` flag in the `dev` script).
 
 3. **Type-check and lint**:
    ```bash
